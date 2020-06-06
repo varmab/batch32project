@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
 
-const MyOrders=()=>{
+const About=()=>{
     return(
-        <h1>MyOrders</h1>
+        <h1>About</h1>
     )
 }
 
-export default MyOrders;
+export default About;

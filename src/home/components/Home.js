@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
 
-const MyOrders=()=>{
+const Home=()=>{
     return(
-        <h1>MyOrders</h1>
+        <h1>Home</h1>
     )
 }
 
-export default MyOrders;
+export default Home;
